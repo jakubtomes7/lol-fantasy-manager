@@ -1,0 +1,502 @@
+[
+  {
+    "id": "brokenblade",
+    "name": "BrokenBlade",
+    "team": "G2 Esports",
+    "role": "TOP",
+    "pr": 89,
+    "lp": 86,
+    "m": 92,
+    "c": 94
+  },
+  {
+    "id": "skewmond",
+    "name": "SkewMond",
+    "team": "G2 Esports",
+    "role": "JNG",
+    "pr": 90,
+    "lp": 94,
+    "m": 84,
+    "c": 84
+  },
+  {
+    "id": "caps",
+    "name": "Caps",
+    "team": "G2 Esports",
+    "role": "MID",
+    "pr": 93,
+    "lp": 91,
+    "m": 96,
+    "c": 86
+  },
+  {
+    "id": "hans-sama",
+    "name": "Hans Sama",
+    "team": "G2 Esports",
+    "role": "ADC",
+    "pr": 89,
+    "lp": 88,
+    "m": 89,
+    "c": 89
+  },
+  {
+    "id": "labrov",
+    "name": "Labrov",
+    "team": "G2 Esports",
+    "role": "SUP",
+    "pr": 87,
+    "lp": 85,
+    "m": 88,
+    "c": 90
+  },
+  {
+    "id": "canna",
+    "name": "Canna",
+    "team": "Karmine Corp",
+    "role": "TOP",
+    "pr": 91,
+    "lp": 91,
+    "m": 90,
+    "c": 85
+  },
+  {
+    "id": "yike",
+    "name": "Yike",
+    "team": "Karmine Corp",
+    "role": "JNG",
+    "pr": 88,
+    "lp": 87,
+    "m": 89,
+    "c": 86
+  },
+  {
+    "id": "kyeahoo",
+    "name": "kyeahoo",
+    "team": "Karmine Corp",
+    "role": "MID",
+    "pr": 86,
+    "lp": 83,
+    "m": 89,
+    "c": 72
+  },
+  {
+    "id": "caliste",
+    "name": "Caliste",
+    "team": "Karmine Corp",
+    "role": "ADC",
+    "pr": 93,
+    "lp": 91,
+    "m": 95,
+    "c": 88
+  },
+  {
+    "id": "busio",
+    "name": "Busio",
+    "team": "Karmine Corp",
+    "role": "SUP",
+    "pr": 88,
+    "lp": 90,
+    "m": 86,
+    "c": 88
+  },
+  {
+    "id": "myrwn",
+    "name": "Myrwn",
+    "team": "Movistar KOI",
+    "role": "TOP",
+    "pr": 81,
+    "lp": 82,
+    "m": 80,
+    "c": 84
+  },
+  {
+    "id": "elyoya",
+    "name": "Elyoya",
+    "team": "Movistar KOI",
+    "role": "JNG",
+    "pr": 88,
+    "lp": 89,
+    "m": 87,
+    "c": 90
+  },
+  {
+    "id": "jojopyun",
+    "name": "Jojopyun",
+    "team": "Movistar KOI",
+    "role": "MID",
+    "pr": 91,
+    "lp": 92,
+    "m": 90,
+    "c": 86
+  },
+  {
+    "id": "supa",
+    "name": "Supa",
+    "team": "Movistar KOI",
+    "role": "ADC",
+    "pr": 84,
+    "lp": 83,
+    "m": 85,
+    "c": 88
+  },
+  {
+    "id": "alvaro",
+    "name": "Alvaro",
+    "team": "Movistar KOI",
+    "role": "SUP",
+    "pr": 83,
+    "lp": 82,
+    "m": 84,
+    "c": 86
+  },
+  {
+    "id": "soboro",
+    "name": "Soboro",
+    "team": "Fnatic",
+    "role": "TOP",
+    "pr": 82,
+    "lp": 83,
+    "m": 81,
+    "c": 75
+  },
+  {
+    "id": "razork",
+    "name": "Razork",
+    "team": "Fnatic",
+    "role": "JNG",
+    "pr": 87,
+    "lp": 89,
+    "m": 86,
+    "c": 76
+  },
+  {
+    "id": "vladi",
+    "name": "Vladi",
+    "team": "Fnatic",
+    "role": "MID",
+    "pr": 89,
+    "lp": 90,
+    "m": 87,
+    "c": 86
+  },
+  {
+    "id": "upset",
+    "name": "Upset",
+    "team": "Fnatic",
+    "role": "ADC",
+    "pr": 90,
+    "lp": 89,
+    "m": 91,
+    "c": 85
+  },
+  {
+    "id": "lospa",
+    "name": "Lospa",
+    "team": "Fnatic",
+    "role": "SUP",
+    "pr": 82,
+    "lp": 81,
+    "m": 83,
+    "c": 78
+  },
+  {
+    "id": "naak-nako",
+    "name": "Naak Nako",
+    "team": "Team Vitality",
+    "role": "TOP",
+    "pr": 89,
+    "lp": 90,
+    "m": 88,
+    "c": 86
+  },
+  {
+    "id": "lyncas",
+    "name": "Lyncas",
+    "team": "Team Vitality",
+    "role": "JNG",
+    "pr": 81,
+    "lp": 81,
+    "m": 82,
+    "c": 73
+  },
+  {
+    "id": "fiesta",
+    "name": "FIESTA",
+    "team": "Team Vitality",
+    "role": "MID",
+    "pr": 86,
+    "lp": 85,
+    "m": 87,
+    "c": 80
+  },
+  {
+    "id": "carzzy",
+    "name": "Carzzy",
+    "team": "Team Vitality",
+    "role": "ADC",
+    "pr": 89,
+    "lp": 88,
+    "m": 90,
+    "c": 83
+  },
+  {
+    "id": "fleshy",
+    "name": "Fleshy",
+    "team": "Team Vitality",
+    "role": "SUP",
+    "pr": 85,
+    "lp": 82,
+    "m": 88,
+    "c": 88
+  },
+  {
+    "id": "oscarinin",
+    "name": "Oscarinin",
+    "team": "GIANTX",
+    "role": "TOP",
+    "pr": 81,
+    "lp": 82,
+    "m": 81,
+    "c": 83
+  },
+  {
+    "id": "isma",
+    "name": "Isma",
+    "team": "GIANTX",
+    "role": "JNG",
+    "pr": 80,
+    "lp": 78,
+    "m": 82,
+    "c": 78
+  },
+  {
+    "id": "jackies",
+    "name": "Jackies",
+    "team": "GIANTX",
+    "role": "MID",
+    "pr": 89,
+    "lp": 87,
+    "m": 90,
+    "c": 88
+  },
+  {
+    "id": "flakked",
+    "name": "Flakked",
+    "team": "GIANTX",
+    "role": "ADC",
+    "pr": 81,
+    "lp": 81,
+    "m": 81,
+    "c": 79
+  },
+  {
+    "id": "jun",
+    "name": "Jun",
+    "team": "GIANTX",
+    "role": "SUP",
+    "pr": 86,
+    "lp": 83,
+    "m": 89,
+    "c": 88
+  },
+  {
+    "id": "wunder",
+    "name": "Wunder",
+    "team": "SK Gaming",
+    "role": "TOP",
+    "pr": 75,
+    "lp": 78,
+    "m": 73,
+    "c": 81
+  },
+  {
+    "id": "skeanz",
+    "name": "Skeanz",
+    "team": "SK Gaming",
+    "role": "JNG",
+    "pr": 80,
+    "lp": 80,
+    "m": 81,
+    "c": 75
+  },
+  {
+    "id": "slowq",
+    "name": "SlowQ",
+    "team": "SK Gaming",
+    "role": "MID",
+    "pr": 78,
+    "lp": 79,
+    "m": 77,
+    "c": 80
+  },
+  {
+    "id": "jopa",
+    "name": "Jopa",
+    "team": "SK Gaming",
+    "role": "ADC",
+    "pr": 88,
+    "lp": 87,
+    "m": 89,
+    "c": 89
+  },
+  {
+    "id": "mikyx",
+    "name": "Mikyx",
+    "team": "SK Gaming",
+    "role": "SUP",
+    "pr": 87,
+    "lp": 84,
+    "m": 90,
+    "c": 78
+  },
+  {
+    "id": "tracyn",
+    "name": "Tracyn",
+    "team": "Team Heretics",
+    "role": "TOP",
+    "pr": 74,
+    "lp": 75,
+    "m": 74,
+    "c": 85
+  },
+  {
+    "id": "daglas",
+    "name": "Daglas",
+    "team": "Team Heretics",
+    "role": "JNG",
+    "pr": 75,
+    "lp": 77,
+    "m": 73,
+    "c": 80
+  },
+  {
+    "id": "serin",
+    "name": "Serin",
+    "team": "Team Heretics",
+    "role": "MID",
+    "pr": 75,
+    "lp": 75,
+    "m": 75,
+    "c": 83
+  },
+  {
+    "id": "hype",
+    "name": "Hype",
+    "team": "Team Heretics",
+    "role": "ADC",
+    "pr": 76,
+    "lp": 77,
+    "m": 74,
+    "c": 79
+  },
+  {
+    "id": "way",
+    "name": "Way",
+    "team": "Team Heretics",
+    "role": "SUP",
+    "pr": 78,
+    "lp": 74,
+    "m": 82,
+    "c": 78
+  },
+  {
+    "id": "rooster",
+    "name": "Rooster",
+    "team": "Shifters",
+    "role": "TOP",
+    "pr": 82,
+    "lp": 80,
+    "m": 83,
+    "c": 77
+  },
+  {
+    "id": "sheo",
+    "name": "Sheo",
+    "team": "Shifters",
+    "role": "JNG",
+    "pr": 75,
+    "lp": 78,
+    "m": 82,
+    "c": 88
+  },
+  {
+    "id": "nuc",
+    "name": "nuc",
+    "team": "Shifters",
+    "role": "MID",
+    "pr": 83,
+    "lp": 84,
+    "m": 83,
+    "c": 88
+  },
+  {
+    "id": "paduck",
+    "name": "Paduck",
+    "team": "Shifters",
+    "role": "ADC",
+    "pr": 73,
+    "lp": 74,
+    "m": 72,
+    "c": 80
+  },
+  {
+    "id": "stend",
+    "name": "Stend",
+    "team": "Shifters",
+    "role": "SUP",
+    "pr": 72,
+    "lp": 72,
+    "m": 71,
+    "c": 81
+  },
+  {
+    "id": "maynter",
+    "name": "Maynter",
+    "team": "Natus Vincere",
+    "role": "TOP",
+    "pr": 77,
+    "lp": 75,
+    "m": 79,
+    "c": 88
+  },
+  {
+    "id": "rhilech",
+    "name": "Rhilech",
+    "team": "Natus Vincere",
+    "role": "JNG",
+    "pr": 89,
+    "lp": 87,
+    "m": 90,
+    "c": 89
+  },
+  {
+    "id": "poby",
+    "name": "Poby",
+    "team": "Natus Vincere",
+    "role": "MID",
+    "pr": 86,
+    "lp": 89,
+    "m": 83,
+    "c": 80
+  },
+  {
+    "id": "samd",
+    "name": "SamD",
+    "team": "Natus Vincere",
+    "role": "ADC",
+    "pr": 84,
+    "lp": 80,
+    "m": 87,
+    "c": 80
+  },
+  {
+    "id": "parus",
+    "name": "Parus",
+    "team": "Natus Vincere",
+    "role": "SUP",
+    "pr": 81,
+    "lp": 78,
+    "m": 83,
+    "c": 89
+  }
+]
